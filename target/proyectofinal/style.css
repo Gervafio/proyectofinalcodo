@@ -1,0 +1,81 @@
+
+img#palacio{
+    filter: brightness(50%);
+    height: 50rem;
+    object-fit: none;
+}
+
+#portada{
+    border-radius: 0;
+    margin-bottom: 20px;
+    position: relative;
+}
+#texportada{
+    width: 30rem; 
+    height: 30rem;
+    text-align: end;
+    position: absolute;
+    top: 27rem;
+    right: 8rem;
+
+}
+#cardplaya{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+#titulo{
+    text-align: center;
+}
+#bsas{
+    background-color: rgb(60, 60, 60);
+}
+.container-fluid{
+    width: 100%;
+}
+#formu{
+    width: 50%;
+}
+#botonenv{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: rgb(140, 200, 50);
+    border-color: rgb(140, 200, 50);
+}
+#btnres{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: rgb(140, 200, 50);
+    border-color: rgb(140, 200, 50);
+
+}
+#btnins{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    width: 100%;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 40px;
+}
+#footerbg{
+    height: 100px;
+     background: linear-gradient(90deg, rgb(26, 54, 68) 0%, rgb(28, 83, 114) 100%);
+}
+#menufooter .nav-item{
+    width: 6rem;
+    margin: 2rem;
+}
+#tarj {
+    border-radius: 0px;
+    margin-top: 20px;
+
+}
+
+#total {
+    background-color: rgb(191, 221, 255);
+    margin-top: 35px;
+   height: 55px;
+}
